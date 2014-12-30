@@ -12,5 +12,9 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
 
+# Ignore Sass' cache
 **/.sass-cache
 **/.sass-cache/*
+
+# Ignore CSS
+*.css
