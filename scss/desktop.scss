@@ -4,17 +4,17 @@
 
 @media screen and (min-width: 59.6875em) {
     body:before {
-        background-color: #fff;
-        box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
-        content: "";
-        display: block;
-        height: 100%;
-        min-height: 100%;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 29.4118%;
-        z-index: 0; /* Fixes flashing bug with scrolling on Safari */
+        // background-color: #fff;
+        // box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
+        // content: "";
+        // display: block;
+        // height: 100%;
+        // min-height: 100%;
+        // position: fixed;
+        // top: 0;
+        // left: 0;
+        // width: 29.4118%;
+        // z-index: 0; /* Fixes flashing bug with scrolling on Safari */
     }
 
     .site {
@@ -23,11 +23,11 @@
     }
 
     .sidebar {
-        float: left;
-        margin-right: -100%;
-        max-width: 413px;
-        position: relative;
-        width: 29.4118%;
+        // float: left;
+        // margin-right: -100%;
+        // max-width: 413px;
+        // position: relative;
+        // width: 29.4118%;
     }
 
     .secondary {
@@ -42,10 +42,10 @@
     }
 
     .site-content {
-        display: block;
-        float: left;
-        margin-left: 29.4118%;
-        width: 70.5882%;
+        // display: block;
+        // float: left;
+        // margin-left: 29.4118%;
+        // width: 70.5882%;
     }
 
     body {
@@ -636,10 +636,10 @@
     }
 
     .site-footer {
-        float: left;
-        margin: 0 0 0 35.2941%;
-        padding: 0;
-        width: 58.8235%;
+        // float: left;
+        // margin: 0 0 0 35.2941%;
+        // padding: 0;
+        // width: 58.8235%;
     }
 
     .site-info {
